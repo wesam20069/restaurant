@@ -1,0 +1,11 @@
+C:\Users\user\OneDrive\Desktop\projectes\Host\Contracts\bin\Debug\net9.0\Contracts.deps.json
+C:\Users\user\OneDrive\Desktop\projectes\Host\Contracts\bin\Debug\net9.0\Contracts.dll
+C:\Users\user\OneDrive\Desktop\projectes\Host\Contracts\bin\Debug\net9.0\Contracts.pdb
+C:\Users\user\OneDrive\Desktop\projectes\Host\Contracts\obj\Debug\net9.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\projectes\Host\Contracts\obj\Debug\net9.0\Contracts.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\projectes\Host\Contracts\obj\Debug\net9.0\Contracts.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\projectes\Host\Contracts\obj\Debug\net9.0\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\projectes\Host\Contracts\obj\Debug\net9.0\Contracts.dll
+C:\Users\user\OneDrive\Desktop\projectes\Host\Contracts\obj\Debug\net9.0\refint\Contracts.dll
+C:\Users\user\OneDrive\Desktop\projectes\Host\Contracts\obj\Debug\net9.0\Contracts.pdb
+C:\Users\user\OneDrive\Desktop\projectes\Host\Contracts\obj\Debug\net9.0\ref\Contracts.dll
